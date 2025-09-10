@@ -1,6 +1,3 @@
-# msc-fraud-detection-dissertation
-A repo containing my dissertation pdf. MSc. Artificial Intelligence at University of Hull
-
 # MSc Dissertation: Motor Vehicle Insurance Fraud Detection Using Deep Learning
 
 **Author:** Ian Murimi  
