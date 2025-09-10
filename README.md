@@ -40,6 +40,7 @@ The project addresses a key challenge in fraud datasets: **extreme class imbalan
 ## 📎 Access the Dissertation (PDF)
 
 [📄 Click here to view/download the full dissertation](./pdf/MSc_Dissertation_IanMurimi.pdf)
+*(Note: The PDF reflects my student ID rather than my full name. This dissertation was submitted under my MSc program at the University of Hull and authored solely by me — Ian Murimi.)*
 
 ---
 
